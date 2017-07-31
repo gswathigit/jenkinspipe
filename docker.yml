@@ -20,7 +20,7 @@
       docker_login:
         username: swathi424
         password: swathi424
-        email:gswathi.2009@gmail.com
+        email: gswathi.2009@gmail.com
 
     - name: Launch docker container
       docker_container:
